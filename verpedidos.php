@@ -25,7 +25,6 @@ $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 	<link rel="stylesheet" href="../_css/style-adm.css">
-    <link rel="shortcut icon" href="../_imagens/LUNARIS_logo-menu_lua-ico.ico" type="image/x-icon">
 	<title>Açaiteria</title>
 </head>
 <body>
